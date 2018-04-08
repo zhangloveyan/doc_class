@@ -1,0 +1,1498 @@
+[
+    {
+        "name": "阿拉善",
+        "pinyi": "alashanmeng"
+    },
+    {
+        "name": "鞍山",
+        "pinyi": "anshan"
+    },
+    {
+        "name": "安庆",
+        "pinyi": "anqing"
+    },
+    {
+        "name": "安阳",
+        "pinyi": "anyang"
+    },
+    {
+        "name": "阿坝",
+        "pinyi": "aba"
+    },
+    {
+        "name": "安顺",
+        "pinyi": "anshun"
+    },
+    {
+        "name": "阿里",
+        "pinyi": "ali"
+    },
+    {
+        "name": "安康",
+        "pinyi": "ankang"
+    },
+    {
+        "name": "阿克苏",
+        "pinyi": "akesu"
+    },
+    {
+        "name": "阿勒泰",
+        "pinyi": "aletai"
+    },
+    {
+        "name": "澳门",
+        "pinyi": "aomen"
+    },
+    {
+        "name": "北京",
+        "pinyi": "beijing"
+    },
+    {
+        "name": "保定",
+        "pinyi": "baoding"
+    },
+    {
+        "name": "蚌埠",
+        "pinyi": "bengbu"
+    },
+    {
+        "name": "包头",
+        "pinyi": "baotou"
+    },
+    {
+        "name": "巴彦淖尔",
+        "pinyi": "bayannaoer"
+    },
+    {
+        "name": "本溪",
+        "pinyi": "benxi"
+    },
+    {
+        "name": "白山",
+        "pinyi": "baishan"
+    },
+    {
+        "name": "白城",
+        "pinyi": "baicheng"
+    },
+    {
+        "name": "亳州",
+        "pinyi": "bozhou"
+    },
+    {
+        "name": "滨州",
+        "pinyi": "binzhou"
+    },
+    {
+        "name": "北海",
+        "pinyi": "beihai"
+    },
+    {
+        "name": "百色",
+        "pinyi": "baise"
+    },
+    {
+        "name": "巴中",
+        "pinyi": "bazhong"
+    },
+    {
+        "name": "毕节",
+        "pinyi": "bijiediqu"
+    },
+    {
+        "name": "保山",
+        "pinyi": "baoshan"
+    },
+    {
+        "name": "宝鸡",
+        "pinyi": "baoji"
+    },
+    {
+        "name": "白银",
+        "pinyi": "baiyin"
+    },
+    {
+        "name": "博尔塔拉",
+        "pinyi": "boertala"
+    },
+    {
+        "name": "巴州",
+        "pinyi": "bazhou"
+    },
+    {
+        "name": "重庆",
+        "pinyi": "chongqing"
+    },
+    {
+        "name": "成都",
+        "pinyi": "chengdu"
+    },
+    {
+        "name": "长沙",
+        "pinyi": "changsha"
+    },
+    {
+        "name": "常州",
+        "pinyi": "changzhou"
+    },
+    {
+        "name": "长春",
+        "pinyi": "changchun"
+    },
+    {
+        "name": "承德",
+        "pinyi": "chengde"
+    },
+    {
+        "name": "沧州",
+        "pinyi": "cangzhou"
+    },
+    {
+        "name": "长治",
+        "pinyi": "changzhi"
+    },
+    {
+        "name": "赤峰",
+        "pinyi": "chifeng"
+    },
+    {
+        "name": "朝阳",
+        "pinyi": "chaoyang"
+    },
+    {
+        "name": "滁州",
+        "pinyi": "chuzhou"
+    },
+    {
+        "name": "巢湖",
+        "pinyi": "chaohu"
+    },
+    {
+        "name": "池州",
+        "pinyi": "chizhou"
+    },
+    {
+        "name": "常德",
+        "pinyi": "changde"
+    },
+    {
+        "name": "郴州",
+        "pinyi": "chenzhou"
+    },
+    {
+        "name": "潮州",
+        "pinyi": "chaozhou"
+    },
+    {
+        "name": "崇左",
+        "pinyi": "chongzuo"
+    },
+    {
+        "name": "楚雄",
+        "pinyi": "chuxiong"
+    },
+    {
+        "name": "昌都",
+        "pinyi": "changdu"
+    },
+    {
+        "name": "昌吉",
+        "pinyi": "changji"
+    },
+    {
+        "name": "从化",
+        "pinyi": "conghua"
+    },
+    {
+        "name": "常熟",
+        "pinyi": "changshu"
+    },
+    {
+        "name": "大连",
+        "pinyi": "dalian"
+    },
+    {
+        "name": "大庆",
+        "pinyi": "daqing"
+    },
+    {
+        "name": "东莞",
+        "pinyi": "dongguan"
+    },
+    {
+        "name": "大同",
+        "pinyi": "datong"
+    },
+    {
+        "name": "丹东",
+        "pinyi": "dandong"
+    },
+    {
+        "name": "大兴安岭",
+        "pinyi": "daxinganling"
+    },
+    {
+        "name": "东营",
+        "pinyi": "dongying"
+    },
+    {
+        "name": "德州",
+        "pinyi": "dezhou"
+    },
+    {
+        "name": "德阳",
+        "pinyi": "deyang"
+    },
+    {
+        "name": "达州",
+        "pinyi": "dazhou"
+    },
+    {
+        "name": "大理",
+        "pinyi": "dali"
+    },
+    {
+        "name": "德宏",
+        "pinyi": "dehong"
+    },
+    {
+        "name": "迪庆",
+        "pinyi": "diqing"
+    },
+    {
+        "name": "定西",
+        "pinyi": "dingxi"
+    },
+    {
+        "name": "丹阳",
+        "pinyi": "danyang"
+    },
+    {
+        "name": "敦煌",
+        "pinyi": "dunhunag"
+    },
+    {
+        "name": "鄂尔多斯",
+        "pinyi": "eerduosi"
+    },
+    {
+        "name": "鄂州",
+        "pinyi": "ezhou"
+    },
+    {
+        "name": "恩施",
+        "pinyi": "enshi"
+    },
+    {
+        "name": "峨眉山",
+        "pinyi": "emeishan"
+    },
+    {
+        "name": "福州",
+        "pinyi": "fuzhou"
+    },
+    {
+        "name": "佛山",
+        "pinyi": "foshan"
+    },
+    {
+        "name": "抚顺",
+        "pinyi": "fushun"
+    },
+    {
+        "name": "阜新",
+        "pinyi": "fuxin"
+    },
+    {
+        "name": "阜阳",
+        "pinyi": "fuyang"
+    },
+    {
+        "name": "抚州",
+        "pinyi": "fuzhoufz"
+    },
+    {
+        "name": "防城港",
+        "pinyi": "fangchenggang"
+    },
+    {
+        "name": "富阳",
+        "pinyi": "fuyangfy"
+    },
+    {
+        "name": "涪陵",
+        "pinyi": "fuling"
+    },
+    {
+        "name": "广州",
+        "pinyi": "guangzhou"
+    },
+    {
+        "name": "桂林",
+        "pinyi": "guilin"
+    },
+    {
+        "name": "贵阳",
+        "pinyi": "guiyang"
+    },
+    {
+        "name": "赣州",
+        "pinyi": "ganzhou"
+    },
+    {
+        "name": "贵港",
+        "pinyi": "guigang"
+    },
+    {
+        "name": "广元",
+        "pinyi": "guangyuan"
+    },
+    {
+        "name": "广安",
+        "pinyi": "guangan"
+    },
+    {
+        "name": "甘孜",
+        "pinyi": "ganzi"
+    },
+    {
+        "name": "甘南",
+        "pinyi": "gannan"
+    },
+    {
+        "name": "果洛",
+        "pinyi": "guoluo"
+    },
+    {
+        "name": "固原",
+        "pinyi": "guyuan"
+    },
+    {
+        "name": "杭州",
+        "pinyi": "hangzhou"
+    },
+    {
+        "name": "合肥",
+        "pinyi": "hefei"
+    },
+    {
+        "name": "海口",
+        "pinyi": "haikou"
+    },
+    {
+        "name": "葫芦岛",
+        "pinyi": "huludao"
+    },
+    {
+        "name": "哈尔滨",
+        "pinyi": "haerbin"
+    },
+    {
+        "name": "邯郸",
+        "pinyi": "handan"
+    },
+    {
+        "name": "衡水",
+        "pinyi": "hengshui"
+    },
+    {
+        "name": "呼和浩特",
+        "pinyi": "huhehaote"
+    },
+    {
+        "name": "呼伦贝尔",
+        "pinyi": "hulunbeier"
+    },
+    {
+        "name": "鹤岗",
+        "pinyi": "hegang"
+    },
+    {
+        "name": "黑河",
+        "pinyi": "heihe"
+    },
+    {
+        "name": "淮安",
+        "pinyi": "huaian"
+    },
+    {
+        "name": "湖州",
+        "pinyi": "huzhou"
+    },
+    {
+        "name": "淮南",
+        "pinyi": "huainan"
+    },
+    {
+        "name": "淮北",
+        "pinyi": "huaibei"
+    },
+    {
+        "name": "黄山",
+        "pinyi": "huangshan"
+    },
+    {
+        "name": "菏泽",
+        "pinyi": "heze"
+    },
+    {
+        "name": "鹤壁",
+        "pinyi": "hebi"
+    },
+    {
+        "name": "黄石",
+        "pinyi": "huangshi"
+    },
+    {
+        "name": "黄冈",
+        "pinyi": "huanggang"
+    },
+    {
+        "name": "衡阳",
+        "pinyi": "hengyang"
+    },
+    {
+        "name": "怀化",
+        "pinyi": "huaihua"
+    },
+    {
+        "name": "惠州",
+        "pinyi": "huizhou"
+    },
+    {
+        "name": "河源",
+        "pinyi": "heyuan"
+    },
+    {
+        "name": "贺州",
+        "pinyi": "hezhou"
+    },
+    {
+        "name": "河池",
+        "pinyi": "hechi"
+    },
+    {
+        "name": "红河",
+        "pinyi": "honghe"
+    },
+    {
+        "name": "汉中",
+        "pinyi": "hanzhong"
+    },
+    {
+        "name": "海东",
+        "pinyi": "haidong"
+    },
+    {
+        "name": "海北",
+        "pinyi": "haibei"
+    },
+    {
+        "name": "黄南",
+        "pinyi": "huangnan"
+    },
+    {
+        "name": "海南州",
+        "pinyi": "hainanzhou"
+    },
+    {
+        "name": "海西",
+        "pinyi": "haixi"
+    },
+    {
+        "name": "哈密",
+        "pinyi": "hami"
+    },
+    {
+        "name": "和田",
+        "pinyi": "hetian"
+    },
+    {
+        "name": "花都",
+        "pinyi": "huadu"
+    },
+    {
+        "name": "海宁",
+        "pinyi": "haining"
+    },
+    {
+        "name": "济南",
+        "pinyi": "jinan"
+    },
+    {
+        "name": "焦作",
+        "pinyi": "jiaozuo"
+    },
+    {
+        "name": "锦州",
+        "pinyi": "jinzhou"
+    },
+    {
+        "name": "九江",
+        "pinyi": "jiujiang"
+    },
+    {
+        "name": "晋城",
+        "pinyi": "jincheng"
+    },
+    {
+        "name": "晋中",
+        "pinyi": "jinzhong"
+    },
+    {
+        "name": "吉林",
+        "pinyi": "jilin"
+    },
+    {
+        "name": "鸡西",
+        "pinyi": "jixi"
+    },
+    {
+        "name": "佳木斯",
+        "pinyi": "jiamusi"
+    },
+    {
+        "name": "嘉兴",
+        "pinyi": "jiaxing"
+    },
+    {
+        "name": "金华",
+        "pinyi": "jinhua"
+    },
+    {
+        "name": "景德镇",
+        "pinyi": "jingdezhen"
+    },
+    {
+        "name": "吉安",
+        "pinyi": "jian"
+    },
+    {
+        "name": "济宁",
+        "pinyi": "jining"
+    },
+    {
+        "name": "济源",
+        "pinyi": "jiyuan"
+    },
+    {
+        "name": "荆门",
+        "pinyi": "jingmen"
+    },
+    {
+        "name": "荆州",
+        "pinyi": "jingzhou"
+    },
+    {
+        "name": "江门",
+        "pinyi": "jiangmen"
+    },
+    {
+        "name": "揭阳",
+        "pinyi": "jieyang"
+    },
+    {
+        "name": "金昌",
+        "pinyi": "jinchang"
+    },
+    {
+        "name": "酒泉",
+        "pinyi": "jiuquan"
+    },
+    {
+        "name": "江阴",
+        "pinyi": "jiangyin"
+    },
+    {
+        "name": "嘉峪关",
+        "pinyi": "jiayuguan"
+    },
+    {
+        "name": "晋江",
+        "pinyi": "jinjiang"
+    },
+    {
+        "name": "江宁",
+        "pinyi": "jiangning"
+    },
+    {
+        "name": "靖江",
+        "pinyi": "jingjiang"
+    },
+    {
+        "name": "昆明",
+        "pinyi": "kunming"
+    },
+    {
+        "name": "开封",
+        "pinyi": "kaifeng"
+    },
+    {
+        "name": "克拉玛依",
+        "pinyi": "kelamayi"
+    },
+    {
+        "name": "克州",
+        "pinyi": "kezhou"
+    },
+    {
+        "name": "喀什",
+        "pinyi": "kashi"
+    },
+    {
+        "name": "昆山",
+        "pinyi": "kunshan"
+    },
+    {
+        "name": "廊坊",
+        "pinyi": "langfang"
+    },
+    {
+        "name": "临汾",
+        "pinyi": "linfen"
+    },
+    {
+        "name": "吕梁",
+        "pinyi": "lvliang"
+    },
+    {
+        "name": "辽阳",
+        "pinyi": "liaoyang"
+    },
+    {
+        "name": "辽源",
+        "pinyi": "liaoyuan"
+    },
+    {
+        "name": "连云港",
+        "pinyi": "lianyungang"
+    },
+    {
+        "name": "丽水",
+        "pinyi": "lishui"
+    },
+    {
+        "name": "六安",
+        "pinyi": "liuan"
+    },
+    {
+        "name": "龙岩",
+        "pinyi": "longyan"
+    },
+    {
+        "name": "莱芜",
+        "pinyi": "laiwu"
+    },
+    {
+        "name": "临沂",
+        "pinyi": "linyi"
+    },
+    {
+        "name": "聊城",
+        "pinyi": "liaocheng"
+    },
+    {
+        "name": "洛阳",
+        "pinyi": "luoyang"
+    },
+    {
+        "name": "漯河",
+        "pinyi": "luohe"
+    },
+    {
+        "name": "娄底",
+        "pinyi": "loudi"
+    },
+    {
+        "name": "柳州",
+        "pinyi": "liuzhou"
+    },
+    {
+        "name": "来宾",
+        "pinyi": "laibin"
+    },
+    {
+        "name": "泸州",
+        "pinyi": "luzhou"
+    },
+    {
+        "name": "乐山",
+        "pinyi": "leshan"
+    },
+    {
+        "name": "凉山",
+        "pinyi": "liangshan"
+    },
+    {
+        "name": "六盘水",
+        "pinyi": "liupanshui"
+    },
+    {
+        "name": "丽江",
+        "pinyi": "lijiang"
+    },
+    {
+        "name": "临沧",
+        "pinyi": "lincang"
+    },
+    {
+        "name": "拉萨",
+        "pinyi": "lasa"
+    },
+    {
+        "name": "林芝",
+        "pinyi": "linzhi"
+    },
+    {
+        "name": "兰州",
+        "pinyi": "lanzhou"
+    },
+    {
+        "name": "陇南",
+        "pinyi": "longnan"
+    },
+    {
+        "name": "临夏",
+        "pinyi": "linxia"
+    },
+    {
+        "name": "牡丹江",
+        "pinyi": "mudanjiang"
+    },
+    {
+        "name": "马鞍山",
+        "pinyi": "maanshan"
+    },
+    {
+        "name": "茂名",
+        "pinyi": "maoming"
+    },
+    {
+        "name": "梅州",
+        "pinyi": "meizhou"
+    },
+    {
+        "name": "绵阳",
+        "pinyi": "mianyang"
+    },
+    {
+        "name": "眉山",
+        "pinyi": "meishan"
+    },
+    {
+        "name": "宁波",
+        "pinyi": "ningbo"
+    },
+    {
+        "name": "南京",
+        "pinyi": "nanjing"
+    },
+    {
+        "name": "南通",
+        "pinyi": "nantong"
+    },
+    {
+        "name": "南昌",
+        "pinyi": "nanchang"
+    },
+    {
+        "name": "南宁",
+        "pinyi": "nanning"
+    },
+    {
+        "name": "南平",
+        "pinyi": "nanping"
+    },
+    {
+        "name": "宁德",
+        "pinyi": "ningde"
+    },
+    {
+        "name": "南阳",
+        "pinyi": "nanyang"
+    },
+    {
+        "name": "内江",
+        "pinyi": "neijiang"
+    },
+    {
+        "name": "南充",
+        "pinyi": "nanchong"
+    },
+    {
+        "name": "怒江",
+        "pinyi": "nujiang"
+    },
+    {
+        "name": "那曲",
+        "pinyi": "naqu"
+    },
+    {
+        "name": "盘锦",
+        "pinyi": "panjin"
+    },
+    {
+        "name": "莆田",
+        "pinyi": "putian"
+    },
+    {
+        "name": "萍乡",
+        "pinyi": "pingxiang"
+    },
+    {
+        "name": "平顶山",
+        "pinyi": "pingdingshan"
+    },
+    {
+        "name": "濮阳",
+        "pinyi": "puyang"
+    },
+    {
+        "name": "攀枝花",
+        "pinyi": "panzhihua"
+    },
+    {
+        "name": "普洱",
+        "pinyi": "puer"
+    },
+    {
+        "name": "平凉",
+        "pinyi": "pingliang"
+    },
+    {
+        "name": "番禺",
+        "pinyi": "panyu"
+    },
+    {
+        "name": "青岛",
+        "pinyi": "qingdao"
+    },
+    {
+        "name": "齐齐哈尔",
+        "pinyi": "qiqihaer"
+    },
+    {
+        "name": "泉州",
+        "pinyi": "quanzhou"
+    },
+    {
+        "name": "秦皇岛",
+        "pinyi": "qinhuangdao"
+    },
+    {
+        "name": "七台河",
+        "pinyi": "qitaihe"
+    },
+    {
+        "name": "衢州",
+        "pinyi": "quzhou"
+    },
+    {
+        "name": "清远",
+        "pinyi": "qingyuan"
+    },
+    {
+        "name": "钦州",
+        "pinyi": "qinzhou"
+    },
+    {
+        "name": "黔西南",
+        "pinyi": "qianxinan"
+    },
+    {
+        "name": "黔东南",
+        "pinyi": "qiandongnan"
+    },
+    {
+        "name": "黔南",
+        "pinyi": "qiannan"
+    },
+    {
+        "name": "曲靖",
+        "pinyi": "qujing"
+    },
+    {
+        "name": "庆阳",
+        "pinyi": "qingyang"
+    },
+    {
+        "name": "琼海",
+        "pinyi": "qionghai"
+    },
+    {
+        "name": "迁安",
+        "pinyi": "qianan"
+    },
+    {
+        "name": "日照",
+        "pinyi": "rizhao"
+    },
+    {
+        "name": "日喀则",
+        "pinyi": "rikaze"
+    },
+    {
+        "name": "上海",
+        "pinyi": "shanghai"
+    },
+    {
+        "name": "深圳",
+        "pinyi": "shenzhen"
+    },
+    {
+        "name": "沈阳",
+        "pinyi": "shenyang"
+    },
+    {
+        "name": "石家庄",
+        "pinyi": "shijiazhuang"
+    },
+    {
+        "name": "苏州",
+        "pinyi": "suzhou"
+    },
+    {
+        "name": "三亚",
+        "pinyi": "sanya"
+    },
+    {
+        "name": "汕头",
+        "pinyi": "shantou"
+    },
+    {
+        "name": "朔州",
+        "pinyi": "shuozhou"
+    },
+    {
+        "name": "四平",
+        "pinyi": "siping"
+    },
+    {
+        "name": "松原",
+        "pinyi": "songyuan"
+    },
+    {
+        "name": "双鸭山",
+        "pinyi": "shuangyashan"
+    },
+    {
+        "name": "绥化",
+        "pinyi": "suihua"
+    },
+    {
+        "name": "宿迁",
+        "pinyi": "suqian"
+    },
+    {
+        "name": "绍兴",
+        "pinyi": "shaoxing"
+    },
+    {
+        "name": "宿州",
+        "pinyi": "suzhousz"
+    },
+    {
+        "name": "三明",
+        "pinyi": "sanming"
+    },
+    {
+        "name": "上饶",
+        "pinyi": "shangrao"
+    },
+    {
+        "name": "三门峡",
+        "pinyi": "sanmenxia"
+    },
+    {
+        "name": "商丘",
+        "pinyi": "shangqiu"
+    },
+    {
+        "name": "十堰",
+        "pinyi": "shiyan"
+    },
+    {
+        "name": "随州",
+        "pinyi": "suizhou"
+    },
+    {
+        "name": "三峡",
+        "pinyi": "sanxia"
+    },
+    {
+        "name": "邵阳",
+        "pinyi": "shaoyang"
+    },
+    {
+        "name": "韶关",
+        "pinyi": "shaoguan"
+    },
+    {
+        "name": "汕尾",
+        "pinyi": "shanwei"
+    },
+    {
+        "name": "遂宁",
+        "pinyi": "suining"
+    },
+    {
+        "name": "山南",
+        "pinyi": "shannan"
+    },
+    {
+        "name": "商洛",
+        "pinyi": "shangluo"
+    },
+    {
+        "name": "石嘴山",
+        "pinyi": "shizuishan"
+    },
+    {
+        "name": "顺德",
+        "pinyi": "shunde"
+    },
+    {
+        "name": "石河子",
+        "pinyi": "shihezi"
+    },
+    {
+        "name": "石狮",
+        "pinyi": "shishi"
+    },
+    {
+        "name": "天津",
+        "pinyi": "tianjin"
+    },
+    {
+        "name": "太原",
+        "pinyi": "taiyuan"
+    },
+    {
+        "name": "唐山",
+        "pinyi": "tangshan"
+    },
+    {
+        "name": "通辽",
+        "pinyi": "tongliao"
+    },
+    {
+        "name": "铁岭",
+        "pinyi": "tieling"
+    },
+    {
+        "name": "通化",
+        "pinyi": "tonghua"
+    },
+    {
+        "name": "泰州",
+        "pinyi": "taizhou"
+    },
+    {
+        "name": "台州",
+        "pinyi": "taizhoutz"
+    },
+    {
+        "name": "铜陵",
+        "pinyi": "tongling"
+    },
+    {
+        "name": "泰安",
+        "pinyi": "taian"
+    },
+    {
+        "name": "铜仁",
+        "pinyi": "tongrendiqu"
+    },
+    {
+        "name": "铜川",
+        "pinyi": "tongchuan"
+    },
+    {
+        "name": "天水",
+        "pinyi": "tianshui"
+    },
+    {
+        "name": "吐鲁番",
+        "pinyi": "tulufan"
+    },
+    {
+        "name": "塔城",
+        "pinyi": "tacheng"
+    },
+    {
+        "name": "台北",
+        "pinyi": "taibei"
+    },
+    {
+        "name": "桐乡",
+        "pinyi": "tongxiang"
+    },
+    {
+        "name": "太仓",
+        "pinyi": "taicang"
+    },
+    {
+        "name": "塘沽",
+        "pinyi": "tanggu"
+    },
+    {
+        "name": "无锡",
+        "pinyi": "wuxi"
+    },
+    {
+        "name": "武汉",
+        "pinyi": "wuhan"
+    },
+    {
+        "name": "芜湖",
+        "pinyi": "wuhu"
+    },
+    {
+        "name": "温州",
+        "pinyi": "wenzhou"
+    },
+    {
+        "name": "乌海",
+        "pinyi": "wuhai"
+    },
+    {
+        "name": "乌兰察布",
+        "pinyi": "wulanchabu"
+    },
+    {
+        "name": "潍坊",
+        "pinyi": "weifang"
+    },
+    {
+        "name": "威海",
+        "pinyi": "weihai"
+    },
+    {
+        "name": "梧州",
+        "pinyi": "wuzhou"
+    },
+    {
+        "name": "文山",
+        "pinyi": "wenshan"
+    },
+    {
+        "name": "渭南",
+        "pinyi": "weinan"
+    },
+    {
+        "name": "武威",
+        "pinyi": "wuwei"
+    },
+    {
+        "name": "吴忠",
+        "pinyi": "wuzhong"
+    },
+    {
+        "name": "乌鲁木齐",
+        "pinyi": "wulumuqi"
+    },
+    {
+        "name": "万州",
+        "pinyi": "wanzhou"
+    },
+    {
+        "name": "吴江",
+        "pinyi": "wujiang"
+    },
+    {
+        "name": "武夷山",
+        "pinyi": "wuyishan"
+    },
+    {
+        "name": "西安",
+        "pinyi": "xian"
+    },
+    {
+        "name": "厦门",
+        "pinyi": "xiamen"
+    },
+    {
+        "name": "新乡",
+        "pinyi": "xinxiang"
+    },
+    {
+        "name": "香港",
+        "pinyi": "xianggang"
+    },
+    {
+        "name": "徐州",
+        "pinyi": "xuzhou"
+    },
+    {
+        "name": "邢台",
+        "pinyi": "xingtai"
+    },
+    {
+        "name": "忻州",
+        "pinyi": "xinzhou"
+    },
+    {
+        "name": "兴安",
+        "pinyi": "xinganmeng"
+    },
+    {
+        "name": "锡林郭勒",
+        "pinyi": "xilinguolemeng"
+    },
+    {
+        "name": "宣城",
+        "pinyi": "xuancheng"
+    },
+    {
+        "name": "新余",
+        "pinyi": "xinyu"
+    },
+    {
+        "name": "许昌",
+        "pinyi": "xuchang"
+    },
+    {
+        "name": "信阳",
+        "pinyi": "xinyang"
+    },
+    {
+        "name": "襄阳",
+        "pinyi": "xiangyang"
+    },
+    {
+        "name": "孝感",
+        "pinyi": "xiaogan"
+    },
+    {
+        "name": "咸宁",
+        "pinyi": "xianning"
+    },
+    {
+        "name": "湘潭",
+        "pinyi": "xiangtan"
+    },
+    {
+        "name": "湘西",
+        "pinyi": "xiangxi"
+    },
+    {
+        "name": "西双版纳",
+        "pinyi": "xishuangbanna"
+    },
+    {
+        "name": "咸阳",
+        "pinyi": "xianyang"
+    },
+    {
+        "name": "西宁",
+        "pinyi": "xining"
+    },
+    {
+        "name": "仙桃",
+        "pinyi": "xiantao"
+    },
+    {
+        "name": "萧山",
+        "pinyi": "xiaoshan"
+    },
+    {
+        "name": "烟台",
+        "pinyi": "yantai"
+    },
+    {
+        "name": "扬州",
+        "pinyi": "yangzhou"
+    },
+    {
+        "name": "阳泉",
+        "pinyi": "yangquan"
+    },
+    {
+        "name": "运城",
+        "pinyi": "yuncheng"
+    },
+    {
+        "name": "营口",
+        "pinyi": "yingkou"
+    },
+    {
+        "name": "延边",
+        "pinyi": "yanbian"
+    },
+    {
+        "name": "伊春",
+        "pinyi": "yichunyc"
+    },
+    {
+        "name": "盐城",
+        "pinyi": "yancheng"
+    },
+    {
+        "name": "鹰潭",
+        "pinyi": "yingtan"
+    },
+    {
+        "name": "宜春",
+        "pinyi": "yichun"
+    },
+    {
+        "name": "宜昌",
+        "pinyi": "yichang"
+    },
+    {
+        "name": "岳阳",
+        "pinyi": "yueyang"
+    },
+    {
+        "name": "益阳",
+        "pinyi": "yiyang"
+    },
+    {
+        "name": "永州",
+        "pinyi": "yongzhou"
+    },
+    {
+        "name": "阳江",
+        "pinyi": "yangjiang"
+    },
+    {
+        "name": "云浮",
+        "pinyi": "yunfu"
+    },
+    {
+        "name": "玉林",
+        "pinyi": "yulin"
+    },
+    {
+        "name": "宜宾",
+        "pinyi": "yibin"
+    },
+    {
+        "name": "雅安",
+        "pinyi": "yaan"
+    },
+    {
+        "name": "玉溪",
+        "pinyi": "yuxi"
+    },
+    {
+        "name": "延安",
+        "pinyi": "yanan"
+    },
+    {
+        "name": "榆林",
+        "pinyi": "yulinyl"
+    },
+    {
+        "name": "玉树",
+        "pinyi": "yushu"
+    },
+    {
+        "name": "银川",
+        "pinyi": "yinchuan"
+    },
+    {
+        "name": "伊犁",
+        "pinyi": "yili"
+    },
+    {
+        "name": "义乌",
+        "pinyi": "yiwu"
+    },
+    {
+        "name": "延吉",
+        "pinyi": "yanji"
+    },
+    {
+        "name": "郑州",
+        "pinyi": "zhengzhou"
+    },
+    {
+        "name": "淄博",
+        "pinyi": "zibo"
+    },
+    {
+        "name": "珠海",
+        "pinyi": "zhuhai"
+    },
+    {
+        "name": "中山",
+        "pinyi": "zhongshan"
+    },
+    {
+        "name": "张家口",
+        "pinyi": "zhangjiakou"
+    },
+    {
+        "name": "镇江",
+        "pinyi": "zhenjiang"
+    },
+    {
+        "name": "舟山",
+        "pinyi": "zhoushan"
+    },
+    {
+        "name": "漳州",
+        "pinyi": "zhangzhou"
+    },
+    {
+        "name": "枣庄",
+        "pinyi": "zaozhuang"
+    },
+    {
+        "name": "周口",
+        "pinyi": "zhoukou"
+    },
+    {
+        "name": "驻马店",
+        "pinyi": "zhumadian"
+    },
+    {
+        "name": "株洲",
+        "pinyi": "zhuzhou"
+    },
+    {
+        "name": "张家界",
+        "pinyi": "zhangjiajie"
+    },
+    {
+        "name": "湛江",
+        "pinyi": "zhanjiang"
+    },
+    {
+        "name": "肇庆",
+        "pinyi": "zhaoqing"
+    },
+    {
+        "name": "自贡",
+        "pinyi": "zigong"
+    },
+    {
+        "name": "资阳",
+        "pinyi": "ziyang"
+    },
+    {
+        "name": "遵义",
+        "pinyi": "zunyi"
+    },
+    {
+        "name": "昭通",
+        "pinyi": "zhaotong"
+    },
+    {
+        "name": "张掖",
+        "pinyi": "zhangye"
+    },
+    {
+        "name": "中卫",
+        "pinyi": "zhongwei"
+    },
+    {
+        "name": "张家港",
+        "pinyi": "zhangjiagang"
+    },
+    {
+        "name": "涿州",
+        "pinyi": "zhuozhou"
+    }
+]
