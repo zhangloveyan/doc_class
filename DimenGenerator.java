@@ -8,11 +8,11 @@ public class DimenGenerator {
 	 /**
      * design width
      */
-    private static final int DESIGN_WIDTH = 240;
+    private static final int DESIGN_WIDTH = 7200;
 	 /**
      * design height
      */
-    private static final int DESIGN_HEIGHT = 240;
+    private static final int DESIGN_HEIGHT = 1080;
 
     public enum DimenTypes {
 		// add you dimen , 300-460 every 10
@@ -22,7 +22,10 @@ public class DimenGenerator {
         DP_sw__330(330),
         DP_sw__340(340),
         DP_sw__350(350),
-        DP_sw__360(360);
+	DP_sw__360(360),
+	DP_sw__370(370),
+	DP_sw__380(380),
+        DP_sw__390(390);
 
         private int swWidthDp;
 
@@ -45,7 +48,7 @@ public class DimenGenerator {
     private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"qb_%1$spx_%2$d\">%3$.2fdp</dimen>\r\n";
 
     private static final String XML_BASE_DPI = "<dimen name=\"base_dpi\">%ddp</dimen>\r\n";
-    private static final int MAX_SIZE = 720;
+    private static final int MAX_SIZE = 1080;
 
     private static final String dirStr = "./res";
     private static final String XML_NAME = "dimens.xml";
