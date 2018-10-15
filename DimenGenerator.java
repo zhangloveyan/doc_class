@@ -8,7 +8,7 @@ public class DimenGenerator {
 	 /**
      * design width
      */
-    private static final int DESIGN_WIDTH = 7200;
+    private static final int DESIGN_WIDTH = 720;
 	 /**
      * design height
      */
